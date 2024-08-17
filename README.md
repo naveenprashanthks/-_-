@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction
+#Titanic Classification Task 1 - CodeAlpha
 
 <img src="https://images8.alphacoders.com/405/405029.jpg">
 
